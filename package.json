@@ -1,0 +1,23 @@
+{
+  "name": "alexa-ham-radio",
+  "version": "0.2.0",
+  "description": "Alexa app to do Ham radio exam prep",
+  "main": "index.js",
+  "dependencies": {
+    "alexa-sdk": "^1.0.6"
+  },
+  "engines": {
+    "node": "4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dhanson358/alexa_ham_radio"
+  },
+  "keywords": [
+    "node",
+    "ham radio",
+    "amateur radio"
+  ],
+  "author": "David Hanson <david@nine70labs.com>",
+  "license": "MIT"
+}
